@@ -4,4 +4,3 @@ com\identity\platform\config\service\domain\model\Entity.class
 com\identity\platform\config\service\ConfigserviceApplication.class
 com\identity\platform\config\service\infrastructure\web\RestControllerApi.class
 com\identity\platform\config\service\application\port\Port.class
-com\identity\platform\config\service\infrastructure\config\DatabaseConfig.class
