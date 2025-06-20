@@ -1,0 +1,17 @@
+-- Création des bases de données pour chaque microservice
+CREATE DATABASE identity_registry_service_db;
+CREATE DATABASE identity_context_service_db;
+CREATE DATABASE basic_identity_service_db;
+CREATE DATABASE security_service_db;
+CREATE DATABASE medical_identity_service_db;
+CREATE DATABASE professional_identity_service_db;
+CREATE DATABASE family_identity_service_db;
+CREATE DATABASE legal_identity_service_db;
+CREATE DATABASE financial_identity_service_db;
+CREATE DATABASE biometric_identity_service_db;
+CREATE DATABASE identity_aggregator_service_db;
+CREATE DATABASE identity_orchestrator_service_db;
+CREATE DATABASE event_bus_service_db;
+CREATE DATABASE backup_service_db;
+CREATE DATABASE auth_service_db;
+CREATE DATABASE keycloak;

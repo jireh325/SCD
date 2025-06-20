@@ -1,0 +1,7 @@
+com\identity\platform\monitoring\service\application\service\ApplicationService.class
+com\identity\platform\monitoring\service\infrastructure\config\DatabaseConfig.class
+com\identity\platform\monitoring\service\MonitoringserviceApplication.class
+com\identity\platform\monitoring\service\domain\model\Entity.class
+com\identity\platform\monitoring\service\domain\repository\Repository.class
+com\identity\platform\monitoring\service\application\port\Port.class
+com\identity\platform\monitoring\service\infrastructure\web\RestControllerApi.class

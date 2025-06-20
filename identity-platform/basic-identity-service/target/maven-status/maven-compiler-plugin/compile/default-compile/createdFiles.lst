@@ -1,0 +1,7 @@
+com\identity\platform\basic\identity\service\domain\repository\Repository.class
+com\identity\platform\basic\identity\service\application\service\ApplicationService.class
+com\identity\platform\basic\identity\service\application\port\Port.class
+com\identity\platform\basic\identity\service\infrastructure\web\RestControllerApi.class
+com\identity\platform\basic\identity\service\BasicidentityserviceApplication.class
+com\identity\platform\basic\identity\service\domain\model\Entity.class
+com\identity\platform\basic\identity\service\infrastructure\config\DatabaseConfig.class
