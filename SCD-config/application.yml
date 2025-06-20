@@ -1,0 +1,21 @@
+# Configuration commune à tous les services
+spring:
+  jackson:
+    time-zone: UTC
+    date-format: 'yyyy-MM-dd HH:mm:ss'
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: always
+
+logging:
+  pattern:
+    console: '%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n'
+  level:
+    root: INFO
+    org.springframework: WARN
