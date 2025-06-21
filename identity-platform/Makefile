@@ -19,6 +19,7 @@ start: start-infra
 	mvn spring-boot:run -pl identity-registry-service &
 	mvn spring-boot:run -pl identity-context-service &
 	mvn spring-boot:run -pl basic-identity-service &
+	wait
 
 # Arrêt
 stop:

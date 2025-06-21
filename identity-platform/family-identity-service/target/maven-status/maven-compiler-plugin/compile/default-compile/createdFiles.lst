@@ -1,0 +1,7 @@
+com\identity\platform\family\identity\service\domain\repository\Repository.class
+com\identity\platform\family\identity\service\application\service\ApplicationService.class
+com\identity\platform\family\identity\service\domain\model\Entity.class
+com\identity\platform\family\identity\service\FamilyidentityserviceApplication.class
+com\identity\platform\family\identity\service\infrastructure\web\RestControllerApi.class
+com\identity\platform\family\identity\service\application\port\Port.class
+com\identity\platform\family\identity\service\infrastructure\config\DatabaseConfig.class

@@ -1,0 +1,7 @@
+com\identity\platform\legal\identity\service\domain\model\Entity.class
+com\identity\platform\legal\identity\service\application\service\ApplicationService.class
+com\identity\platform\legal\identity\service\application\port\Port.class
+com\identity\platform\legal\identity\service\domain\repository\Repository.class
+com\identity\platform\legal\identity\service\infrastructure\config\DatabaseConfig.class
+com\identity\platform\legal\identity\service\infrastructure\web\RestControllerApi.class
+com\identity\platform\legal\identity\service\LegalidentityserviceApplication.class
