@@ -4,15 +4,15 @@ server:
 spring:
   application:
     name: config-service
+  profiles:
+    active: native # Active le mode "fichiers locaux" (désactive Git)
   cloud:
     config:
       server:
-        git:
-          uri: https://github.com/jireh325/SCD.git
-          clone-on-start: true
-          search-paths: 'SCD-config/services'  # Spécifiez le sous-dossier
-          default-label: main  # Spécifiez la branche
-          timeout: 10  # Timeout en secondes
+        native:
+          search-locations: 
+            - file:///${user.home}/Desktop/PFE/SCD/SCD-config/services/
+            - file:///${user.home}/Desktop/PFE/SCD/SCD-config/
   
   redis:
     data:

@@ -1,7 +1,0 @@
-com\identity\platform\discovery\service\infrastructure\web\RestControllerApi.class
-com\identity\platform\discovery\service\DiscoveryserviceApplication.class
-com\identity\platform\discovery\service\application\service\ApplicationService.class
-com\identity\platform\discovery\service\domain\repository\Repository.class
-com\identity\platform\discovery\service\infrastructure\config\DatabaseConfig.class
-com\identity\platform\discovery\service\domain\model\Entity.class
-com\identity\platform\discovery\service\application\port\Port.class

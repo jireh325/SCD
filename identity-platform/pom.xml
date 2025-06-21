@@ -23,6 +23,8 @@
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>
+        <netty.version>4.1.108.Final</netty.version>
+        <guice.version>7.0.0</guice.version>
     </properties>
     
     <modules>

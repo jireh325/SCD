@@ -11,17 +11,13 @@ start-infra:
 # Démarrage complet
 start: start-infra
 	mvn spring-boot:run -pl config-service &
-	sleep 15
+	sleep 10
 	mvn spring-boot:run -pl discovery-service &
 	sleep 10
 	mvn spring-boot:run -pl api-gateway-service &
-	sleep 5
 	mvn spring-boot:run -pl auth-service &
-	sleep 5
 	mvn spring-boot:run -pl identity-registry-service &
-	sleep 5
 	mvn spring-boot:run -pl identity-context-service &
-	sleep 5
 	mvn spring-boot:run -pl basic-identity-service &
 
 # Arrêt

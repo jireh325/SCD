@@ -1,7 +1,0 @@
-com\identity\platform\backup\service\application\service\ApplicationService.class
-com\identity\platform\backup\service\infrastructure\web\RestControllerApi.class
-com\identity\platform\backup\service\application\port\Port.class
-com\identity\platform\backup\service\domain\repository\Repository.class
-com\identity\platform\backup\service\domain\model\Entity.class
-com\identity\platform\backup\service\BackupserviceApplication.class
-com\identity\platform\backup\service\infrastructure\config\DatabaseConfig.class

@@ -1,5 +1,6 @@
 -- Création des bases de données pour chaque microservice
 CREATE DATABASE identity_registry_service_db;
+CREATE DATABASE discovery_service_db;
 CREATE DATABASE identity_context_service_db;
 CREATE DATABASE basic_identity_service_db;
 CREATE DATABASE security_service_db;
@@ -15,3 +16,4 @@ CREATE DATABASE event_bus_service_db;
 CREATE DATABASE backup_service_db;
 CREATE DATABASE auth_service_db;
 CREATE DATABASE keycloak;
+CREATE DATABASE monitoring_service_db;

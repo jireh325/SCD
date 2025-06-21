@@ -1,7 +1,0 @@
-com\identity\platform\api\gateway\service\application\service\ApplicationService.class
-com\identity\platform\api\gateway\service\infrastructure\web\RestControllerApi.class
-com\identity\platform\api\gateway\service\infrastructure\config\DatabaseConfig.class
-com\identity\platform\api\gateway\service\ApigatewayserviceApplication.class
-com\identity\platform\api\gateway\service\domain\model\Entity.class
-com\identity\platform\api\gateway\service\domain\repository\Repository.class
-com\identity\platform\api\gateway\service\application\port\Port.class

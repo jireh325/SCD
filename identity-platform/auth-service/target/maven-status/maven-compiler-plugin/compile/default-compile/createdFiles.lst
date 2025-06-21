@@ -1,7 +1,0 @@
-com\identity\platform\auth\service\AuthserviceApplication.class
-com\identity\platform\auth\service\domain\model\Entity.class
-com\identity\platform\auth\service\infrastructure\config\DatabaseConfig.class
-com\identity\platform\auth\service\application\port\Port.class
-com\identity\platform\auth\service\infrastructure\web\RestControllerApi.class
-com\identity\platform\auth\service\application\service\ApplicationService.class
-com\identity\platform\auth\service\domain\repository\Repository.class

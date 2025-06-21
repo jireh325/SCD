@@ -1,7 +1,0 @@
-com\identity\platform\identity\orchestrator\service\infrastructure\web\RestControllerApi.class
-com\identity\platform\identity\orchestrator\service\application\service\ApplicationService.class
-com\identity\platform\identity\orchestrator\service\domain\model\Entity.class
-com\identity\platform\identity\orchestrator\service\IdentityorchestratorserviceApplication.class
-com\identity\platform\identity\orchestrator\service\infrastructure\config\DatabaseConfig.class
-com\identity\platform\identity\orchestrator\service\application\port\Port.class
-com\identity\platform\identity\orchestrator\service\domain\repository\Repository.class
