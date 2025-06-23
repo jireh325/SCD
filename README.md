@@ -80,7 +80,7 @@ Node.js (pour l'UI)
 Cloner le dépôt
 
 bash
-git clone https://github.com/votre-repo/identity-platform.git
+git clone https://github.com/jireh325/SCD.git
 cd identity-platform
 Démarrer l'infrastructure
 
